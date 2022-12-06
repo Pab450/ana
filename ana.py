@@ -35,8 +35,6 @@ class Ana(tweepy.StreamingClient):
         if tweet.data.text[:2] == "RT":
             return
 
-        print(tweet.data.text)
-
         if self.get_username(tweet.data.author_id) == self.get_bot_username():
             return
 
