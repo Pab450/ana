@@ -30,7 +30,7 @@ Reverse Engineered ChatGPT by OpenAI. Extensible for chatbots etc. Forked from h
 
 ## Result
 
-![image]()
-![image]()
+![image](https://raw.githubusercontent.com/Pab450/ana/main/images/img2.png)
+![image](https://raw.githubusercontent.com/Pab450/ana/main/images/img1.png)
 
 ### Ana is available here : https://twitter.com/TwittosAcc
